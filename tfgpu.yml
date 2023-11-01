@@ -1,0 +1,17 @@
+name: tfgpu-pred
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - tensorflow
+  - rdkit
+  - jupyter
+  - ca-certificates
+  - certifi
+  - openssl
+  - matplotlib
+  - tensorflow-gpu
+  - scikit-learn-intelex
+  - seaborn
+  - numpy==1.19.5
