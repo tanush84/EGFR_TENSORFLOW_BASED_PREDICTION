@@ -20,7 +20,7 @@ python predict_name_of_algorithm.py [specify_path]*.smi
 The result will be displayed in the terminal as Molecule to be active or Inactive
 
 The image in repository indicate the training and validation accuracy of the Tensorflow Model.
-For the trained model after Hyperparameter tuning, Achieved stats were as mentioned below:
+For the trained model after Hyperparameter tuning,We achieved prediction stats were as mentioned below:
 Average Training Accuracy: 0.9487421000003815
 Average Validation Accuracy: 0.8665430080890656
 
